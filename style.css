@@ -228,3 +228,13 @@ section {
   text-decoration:none;
 }
 .cta:hover{ opacity:0.9; }
+
+.price-tag {
+  font-size: 0.85rem;
+  font-weight: 500;
+  background-color: #f1f5f9;
+  color: #111;
+  padding: 0.25rem 0.6rem;
+  border-radius: 0.5rem;
+  margin-left: 0.5rem;
+}
