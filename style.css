@@ -238,3 +238,17 @@ section {
   border-radius: 0.5rem;
   margin-left: 0.5rem;
 }
+ #what-you-get .benefits-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: 0.8rem;
+}
+
+#what-you-get .benefits-list li {
+  background-color: #fff;
+  padding: 0.8rem 1rem;
+  border-radius: 0.6rem;
+  border: 1px solid #e5e7eb;
+  font-size: 0.95rem;
+}
